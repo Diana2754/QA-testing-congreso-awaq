@@ -1,5 +1,4 @@
 🧪 QA Testing Project – Congreso Internacional Awaq
-📍 Descripción
 
 Este repositorio contiene la documentación completa del proceso de testing manual realizado sobre el sitio web del Congreso Internacional organizado por Awaq ONGD.
 
