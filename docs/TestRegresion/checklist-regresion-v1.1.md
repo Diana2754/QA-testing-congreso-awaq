@@ -4,9 +4,9 @@
 
 - **Versión:** 1.1  
 - **Cambio aplicado:** Corrección de bugs detectados en v1.0  
-- **Tester:** Tu Nombre  
-- **Fecha:** XX/XX/XXXX  
-- **Ambiente:** Staging  
+- **Tester:** Diana Alali 
+- **Fecha:** 3/04/2025 
+- **Ambiente:** Dev  
 - **Resultado general:** Aprobado con observaciones
 
 ---

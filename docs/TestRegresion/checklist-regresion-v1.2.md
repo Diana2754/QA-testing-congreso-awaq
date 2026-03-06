@@ -4,9 +4,9 @@
 
 - **Versión:** 1.2  
 - **Cambio aplicado:** Ajustes visuales y mejoras de accesibilidad  
-- **Tester:** Tu Nombre  
-- **Fecha:** XX/XX/XXXX  
-- **Ambiente:** Staging  
+- **Tester:** Diana Alali
+- **Fecha:** 17/04/2025
+- **Ambiente:** Dev
 - **Resultado general:** Aprobado
 
 ---

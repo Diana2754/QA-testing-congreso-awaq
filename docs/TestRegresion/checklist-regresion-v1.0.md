@@ -6,7 +6,7 @@
 - **Tipo de ejecución:** Primera ejecución del checklist de regresión  
 - **Tester:** Diana Alali
 - **Fecha:** 17/03/2025 
-- **Ambiente:** Staging  
+- **Ambiente:** Dev 
 - **Resultado general:** Fallido
 
 ---
